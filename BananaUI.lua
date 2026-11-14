@@ -325,7 +325,7 @@ function Library.CreateMain(...)
 	parentGui(tgui)
 	local fab = new("TextButton", {
 		BackgroundColor3 = Theme.Accent,
-		Text = "B",
+		Text = "X",
 		TextColor3 = Color3.new(0, 0, 0),
 		Font = Enum.Font.GothamBold,
 		TextSize = 20,
